@@ -18,9 +18,11 @@ header {
 }
 
 .team1 {
+  text-align: center;
   background-color: tomato;
 }
 
 .team2 {
+  text-align: center;
   background-color: plum;
 }
